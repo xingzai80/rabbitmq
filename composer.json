@@ -1,0 +1,12 @@
+{
+    "name":"1one/my_project",
+    "require":{
+        "php-amqplib/php-amqplib": "2.9.0"
+    },
+	"repositories": {
+		"packagist": {
+			"type": "composer",
+			"url": "https://packagist.phpcomposer.com"
+		}
+	}
+}
